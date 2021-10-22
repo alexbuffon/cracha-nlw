@@ -16,7 +16,7 @@ body {
 }
 
 main {
-  background: url(figma/fundo\ jpg.jpg);
+  background: url(./figma/fundo.jpg);
   width: 375px;
   height: 812px;
 }
